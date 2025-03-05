@@ -1,0 +1,4 @@
+/* Target the specific article */
+article.first-entry.home-info {
+  min-height: 0;
+}
