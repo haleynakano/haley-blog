@@ -1,6 +1,6 @@
-baseURL: https://nkosaku.github.io/hugo-pm/ 
+baseURL: https://haleynakano.github.io/tokyo-diaries/ 
 languageCode: en-us
-title: "Sample Page" 
+title: "Tokyo Diaries - My Life Abroad" 
 theme: ["PaperMod"]
 
 languages:
@@ -42,8 +42,8 @@ params:
   # comments: false
 
   homeInfoParams:
-    Title: Sample Page
-    Content: This is a sample page.
+    Title: Hi
+    Content: Hi
     
 outputs:
   home:
