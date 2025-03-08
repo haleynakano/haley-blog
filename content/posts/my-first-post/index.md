@@ -1,10 +1,10 @@
 ---
 date: '2025-03-05T12:33:22+09:00'
-draft: true
+draft: false
 tags: []
 title: 'Starting Over at 27'
-cover:
-    image: cover.png  # You can change the image as per your need.
+# cover:
+#     image: cover.png  # You can change the image as per your need.
 ---
 
 I got to thinking about what it means to ‘find yourself.’ I naively thought this was something you only had to do once, and once you figured it out, it’d be smooth sailing. 
