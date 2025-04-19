@@ -1,6 +1,7 @@
 baseURL: https://tokyodiaries.com
 languageCode: en-us
 title: "Tokyo Diaries - My Life Abroad" 
+googleAnalytics: G-JH38S1T3SL
 theme: ["PaperMod"]
 
 languages:
@@ -42,8 +43,8 @@ params:
   # comments: false
 
   homeInfoParams:
-    Title: Hi
-    Content: Hi
+    Title: Welcome to Tokyo Diaries
+    Content: I moved to from Hawaiʻi to Japan over 8 years ago. Here I hope to share some of my experiences as an Asian American woman living abroad. 
     
 outputs:
   home:
