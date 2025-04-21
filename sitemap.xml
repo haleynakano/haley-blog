@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tokyodiaries.com/posts/</loc>
+    <lastmod>2025-03-16T17:27:21+09:00</lastmod>
+  </url><url>
+    <loc>https://tokyodiaries.com/</loc>
+    <lastmod>2025-03-16T17:27:21+09:00</lastmod>
+  </url><url>
+    <loc>https://tokyodiaries.com/posts/my-first-post/</loc>
+    <lastmod>2025-03-05T12:33:22+09:00</lastmod>
+  </url><url>
+    <loc>https://tokyodiaries.com/archives/</loc>
+  </url><url>
+    <loc>https://tokyodiaries.com/categories/</loc>
+  </url><url>
+    <loc>https://tokyodiaries.com/search/</loc>
+  </url><url>
+    <loc>https://tokyodiaries.com/series/</loc>
+  </url><url>
+    <loc>https://tokyodiaries.com/tags/</loc>
+  </url>
+</urlset>
