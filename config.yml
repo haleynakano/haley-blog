@@ -44,7 +44,8 @@ params:
 
   homeInfoParams:
     Title: Welcome to Tokyo Diaries
-    Content: I moved to from Hawaiʻi to Japan over 8 years ago. Here I hope to share some of my experiences as an Asian American woman living abroad. 
+    Content: I moved from Hawaiʻi to Japan in 2016 to attend university and have been here ever since. I had originally planned to move back home after I graduated, but I kept finding reasons to extend my stay. Having recently left my corporate role, I'm taking this opportunity to explore my next adventure and I'd love to share insights from my time in Japan with anyone interested. As I navigate this new chapter, I want to reflect on the experiences that have shaped my journey in Japan. 
+
     
 outputs:
   home:
