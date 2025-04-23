@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tokyodiaries.com/posts/college-in-japan/</loc>
-    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+    <loc>https://tokyodiaries.com/posts/identity/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tokyodiaries.com/posts/</loc>
-    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tokyodiaries.com/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tokyodiaries.com/posts/college-in-japan/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tokyodiaries.com/posts/ldr/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tokyodiaries.com/posts/embed-test/</loc>
+    <lastmod>2025-03-16T17:27:21+09:00</lastmod>
   </url><url>
     <loc>https://tokyodiaries.com/tags/personal-blog/</loc>
     <lastmod>2025-03-05T12:33:22+09:00</lastmod>
